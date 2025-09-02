@@ -8,7 +8,7 @@ It allows you to generate random hex colors and apply them as background gradien
 
 ## 📸 Preview
 ![Gradient Generator Screenshot](screenshot.png)  
-*(Add a screenshot of your project and name the file `screenshot.png` in your repo)*
+
 
 ## 🛠️ Tech Stack
 - HTML
