@@ -25,7 +25,7 @@
             border-radius: 8px;
             background-color: rgb(255, 255, 255, 0.07);
             font-size: 14px;
-            font-family: monospace;
+            font-family: "Outfit";
             /* backdrop-filter: blur(8px); */
             border-left: 4px solid rgb(255, 255, 255, 0.9);
         }
@@ -54,7 +54,7 @@
 
         p {
             color: #fff;
-            font-family: "poppins", sans-serif;
+            font-family: "Outfit";
             letter-spacing: 1px;
             padding: 10px 0px 10px 10px;
             font-weight: 350;
